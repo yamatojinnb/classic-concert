@@ -1,0 +1,9 @@
+# 検証用の一時ファイル・スクリプト
+sample_*.html
+test_fetch.py
+scrape.log
+__pycache__/
+*.pyc
+
+# 旧構成の名残（現在はリポジトリ直下の index.html を公開する）
+site/
