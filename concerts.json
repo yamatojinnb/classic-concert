@@ -1,103 +1,20 @@
 [
   {
-    "title": "島根 朋史 バロック・チェロ・リサイタル（開演  午前11時）",
-    "url": "https://www.concertsquare.jp/blog/2026/202606256122675.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "11:00",
-    "venue": "広島県|日本キリスト教団  福山東教会",
+    "title": "名東ウインドオーケストラ 第27回定期演奏会",
+    "url": "https://www.concertsquare.jp/blog/2026/202604088961416.html",
+    "date": "2026年08月16日",
+    "day_week": "日",
+    "start_time": "16:00",
+    "venue": "愛知県|東海市芸術劇場 大ホール",
     "official": true,
-    "sub_title": "",
-    "prefecture": "広島県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/2960",
-    "public_url": null,
-    "performers": [],
-    "prices": [],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "ワンコイン・コンサート 鎌田渓志 ～遊び心あふれるホルン",
-    "url": "https://www.concertsquare.jp/blog/2026/202606136765443.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "11:30",
-    "venue": "兵庫県|兵庫県立芸術文化センター KOBELCO 大ホール",
-    "official": false,
-    "sub_title": "",
-    "prefecture": "兵庫県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/167",
-    "public_url": "https://www1.gcenter-hyogo.jp/contents_parts/ConcertDetail.aspx?kid=5060711404&sid=0000000001",
+    "sub_title": "宮川彬良＆名東ウインドオーケストラ スペシャルコンサート 本気で豪華。",
+    "prefecture": "愛知県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/2411",
+    "public_url": "https://meito-wind.main.jp/concert2/",
     "performers": [],
     "prices": [
       {
-        "name": "全席指定",
-        "price": "500円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "ARKフィルハーモニック 究極のベートーヴェン",
-    "url": "https://www.concertsquare.jp/blog/2026/202602232505977.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "14:00",
-    "venue": "神奈川県|横浜みなとみらいホール 大ホール",
-    "official": false,
-    "sub_title": "清水和音(ピアノ)×三浦文彰(指揮)",
-    "prefecture": "神奈川県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/242",
-    "public_url": "https://www.ints.co.jp/arkphil2026.html",
-    "performers": [],
-    "prices": [
-      {
-        "name": "S席",
-        "price": "12000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "ウクライナ国立バレエ スペシャル・セレクション2026",
-    "url": "https://www.concertsquare.jp/blog/2026/202604038885141.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "14:00",
-    "venue": "宮城県|東京エレクトロンホール宮城 大ホール",
-    "official": false,
-    "sub_title": "歴史と伝統を受け継ぐ名門バレエ団が贈るクラシック・バレエの人気作品",
-    "prefecture": "宮城県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/348",
-    "public_url": "https://www.koransha.com/ballet/ukraine_ballet/specialselection/",
-    "performers": [],
-    "prices": [
-      {
-        "name": "全席指定",
-        "price": "8000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "第47回 霧島国際音楽祭 エリソ・ヴィルサラーゼ ピアノクラス",
-    "url": "https://www.concertsquare.jp/blog/2026/202604142458991.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "14:30",
-    "venue": "鹿児島県|霧島国際音楽ホール みやまコンセール 小ホール",
-    "official": false,
-    "sub_title": "オープン・レッスン",
-    "prefecture": "鹿児島県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/3122",
-    "public_url": "https://kirishima-imf.jp/miyamaconseru-houzanhall",
-    "performers": [],
-    "prices": [
-      {
-        "name": "一般",
+        "name": "全席自由",
         "price": "1000円"
       }
     ],
@@ -105,321 +22,19 @@
     "program_hint": null
   },
   {
-    "title": "東京大学音楽部管弦楽団 サマーコンサート2026",
-    "url": "https://www.concertsquare.jp/blog/2026/202604177838712.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "18:00",
-    "venue": "東京都|東京芸術劇場 コンサートホール",
-    "official": true,
-    "sub_title": "",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/865",
-    "public_url": "https://ut-orch.com/2026summer/",
-    "performers": [],
-    "prices": [
-      {
-        "name": "S席",
-        "price": "2000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "加藤舞香ピアノリサイタル",
-    "url": "https://www.concertsquare.jp/blog/2026/202607154800821.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "18:30",
-    "venue": "大阪府|カワイ梅田 コンサートサロン・ジュエ",
-    "official": true,
-    "sub_title": "",
-    "prefecture": "大阪府",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/417",
-    "public_url": null,
-    "performers": [],
-    "prices": [
-      {
-        "name": "自由席",
-        "price": "2000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "ザ・ブルーコーツオーケストラ 結成80周年記念公演",
-    "url": "https://www.concertsquare.jp/blog/2026/202602235641396.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "18:30",
-    "venue": "東京都|日経ホール",
-    "official": false,
-    "sub_title": "「ラプソディ・イン・ブルー」初演版復刻上演",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/1849",
-    "public_url": "https://art.nikkei.com/event/4648/",
-    "performers": [],
-    "prices": [
-      {
-        "name": "一般",
-        "price": "4000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "兄ーズ Dream Land -on Broadway-",
-    "url": "https://www.concertsquare.jp/blog/2026/202605305288281.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "18:30",
-    "venue": "静岡県|アクトシティ浜松 中ホール",
-    "official": false,
-    "sub_title": "",
-    "prefecture": "静岡県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/553",
-    "public_url": "https://www.actcity.jp/event/detail/?id=31057",
-    "performers": [],
-    "prices": [
-      {
-        "name": "全席指定",
-        "price": "6000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "笛田博昭 テノール・リサイタル With 大阪交響楽団",
-    "url": "https://www.concertsquare.jp/blog/2026/202605162167251.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "18:45",
-    "venue": "愛知県|愛知県芸術劇場 コンサートホール",
-    "official": false,
-    "sub_title": "【名古屋公演】",
-    "prefecture": "愛知県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/12",
-    "public_url": "https://teket.jp/13679/68385",
-    "performers": [],
-    "prices": [
-      {
-        "name": "SS席",
-        "price": "8000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "名古屋フィルハーモニー交響楽団 極上のアンサンブルによる室内楽コンサート 夏",
-    "url": "https://www.concertsquare.jp/blog/2026/202606064388869.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "18:45",
-    "venue": "愛知県|電気文化会館 ザ･コンサートホール",
-    "official": false,
-    "sub_title": "電気文化会館 開館40周年記念　創立60周年記念",
-    "prefecture": "愛知県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/25",
-    "public_url": "https://www.nagoya-phil.or.jp/2026/041709165034724.html",
-    "performers": [],
-    "prices": [
-      {
-        "name": "一般",
-        "price": "2500円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "村山卓洋ピアノリサイタル2026",
-    "url": "https://www.concertsquare.jp/blog/2026/202605225551650.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
+    "title": "DUOコンサート アジアへの旅",
+    "url": "https://www.concertsquare.jp/blog/2026/202608043996441.html",
+    "date": "2026年08月17日",
+    "day_week": "月",
     "start_time": "19:00",
-    "venue": "東京都|ルーテル市ヶ谷ホール",
+    "venue": "東京都|ムジク・ピアフォーヌ",
     "official": true,
-    "sub_title": "",
+    "sub_title": "フォーレ、ラヴェル、ドビュッシー、プッチーニが描いた東洋",
     "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/726",
-    "public_url": "http://www.millionconcert.co.jp/concert/detail/2026_08/guide/260804murayamatakuhiro.html",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/3207",
+    "public_url": "https://teket.jp/6045/75767",
     "performers": [],
     "prices": [],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "服部容子&冨平恭平 2台のピアノの物語 Vol9",
-    "url": "https://www.concertsquare.jp/blog/2026/20260602688942.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "東京都|東京オペラシティ リサイタルホール",
-    "official": false,
-    "sub_title": "",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/968",
-    "public_url": "https://eplus.jp/sf/detail/4540060001",
-    "performers": [],
-    "prices": [
-      {
-        "name": "全席自由",
-        "price": "4000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "松井秀太郎 ナカリャコフ 児玉隼人 トランペットの祭典",
-    "url": "https://www.concertsquare.jp/blog/2026/202602105666314.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "東京都|東京オペラシティ コンサートホール：タケミツ メモリアル",
-    "official": false,
-    "sub_title": "前代未聞の華やかなフェスティバルがやってくる！",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/862",
-    "public_url": "https://avex.jp/classics/trumpetfes2026/",
-    "performers": [],
-    "prices": [
-      {
-        "name": "SS席",
-        "price": "15000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "菊池洋子 ピアノ・リサイタル「J.S.バッハ：ゴルトベルク変奏曲」",
-    "url": "https://www.concertsquare.jp/blog/2026/202604105189319.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "東京都|サントリーホール ブルーローズ (小ホール)",
-    "official": false,
-    "sub_title": "ゴルトベルク変奏曲 “音楽の神秘への旅”",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/675",
-    "public_url": "https://www.ints.co.jp/kikuchigold-2026.html",
-    "performers": [],
-    "prices": [
-      {
-        "name": "全席指定",
-        "price": "5000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "ミシェル・ブヴァール オルガン・リサイタル",
-    "url": "https://www.concertsquare.jp/blog/2026/202604227525213.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "東京都|武蔵野市民文化会館 小ホール",
-    "official": false,
-    "sub_title": "",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/913",
-    "public_url": "https://www.musashino.or.jp/cgi-evt/event.cgi?&lcate=040&&sort=2&prev=2",
-    "performers": [],
-    "prices": [
-      {
-        "name": "一般",
-        "price": "3000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "台湾・東吳校友合唱團京都公演 ～ ウィル・トッド：待降節オラトリオ《約束》",
-    "url": "https://teket.jp/13495/70847",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "京都府|京都府立府民ホール ALTI(アルティ)"
-  },
-  {
-    "title": "【東京公演】マリンバデュオ  Paris-Tokyo",
-    "url": "https://teket.jp/3768/71223",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "東京都|ガルバホール新宿"
-  },
-  {
-    "title": "クルターク100",
-    "url": "https://www.concertsquare.jp/blog/2026/202606194361386.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "東京都|トーキョーコンサーツ・ラボ",
-    "official": false,
-    "sub_title": "KURTÁG 100",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/3670",
-    "public_url": "https://tocon-lab.com/event/20260804",
-    "performers": [],
-    "prices": [
-      {
-        "name": "一般",
-        "price": "4000円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "鈴木舞&川口成彦 シューベルトの詩情《Vol.2》",
-    "url": "https://www.concertsquare.jp/blog/2026/202607071288279.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:00",
-    "venue": "東京都|渋谷美竹サロン",
-    "official": false,
-    "sub_title": "〜ヴァイオリンとピアノのためのデュオ作品全曲演奏会〜",
-    "prefecture": "東京都",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/3684",
-    "public_url": "https://mitakesayaka.com/event/21472/",
-    "performers": [],
-    "prices": [
-      {
-        "name": "一般（全席自由席）",
-        "price": "5500円"
-      }
-    ],
-    "description": null,
-    "program_hint": null
-  },
-  {
-    "title": "姉妹のデュオコンサート Vol.4",
-    "url": "https://www.concertsquare.jp/blog/2026/202607305269388.html",
-    "date": "2026年08月04日",
-    "day_week": "火",
-    "start_time": "19:30",
-    "venue": "神奈川県|ミューザ川崎シンフォニーホール 音楽工房 市民交流室",
-    "official": true,
-    "sub_title": "激動のロシアを生きた作曲家たち",
-    "prefecture": "神奈川県",
-    "hall_url": "https://www.concertsquare.jp/hall/detail/230",
-    "public_url": null,
-    "performers": [],
-    "prices": [
-      {
-        "name": "学生",
-        "price": "2000円"
-      }
-    ],
     "description": null,
     "program_hint": null
   },
@@ -1478,14 +1093,6 @@
     "program_hint": null
   },
   {
-    "title": "SUMMER CONCERT 2026　夜公演　～新日本フィルメンバーによる弦楽三重奏～",
-    "url": "https://teket.jp/13323/67506",
-    "date": "2026年08月06日",
-    "day_week": "木",
-    "start_time": "19:00",
-    "venue": "東京都|紀尾井町サロンホール"
-  },
-  {
     "title": "本村睦幸(リコーダー)のバロック音楽サロン vol.5",
     "url": "https://www.concertsquare.jp/blog/2026/202604166749192.html",
     "date": "2026年08月06日",
@@ -1654,6 +1261,28 @@
     "day_week": "木",
     "start_time": "19:00",
     "venue": "愛知県|phil-（フィル）"
+  },
+  {
+    "title": "SUMMER CONCERT 2026 ～新日本フィルメンバーによる弦楽三重奏",
+    "url": "https://www.concertsquare.jp/blog/2026/202608012559660.html",
+    "date": "2026年08月06日",
+    "day_week": "木",
+    "start_time": "19:00",
+    "venue": "東京都|紀尾井町サロンホール",
+    "official": false,
+    "sub_title": "〈夜公演〉",
+    "prefecture": "東京都",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/744",
+    "public_url": "https://musicnews.lflc.jp/concerts/hall_87cfdf7a95c147ab",
+    "performers": [],
+    "prices": [
+      {
+        "name": "自由席",
+        "price": "3500円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
   },
   {
     "title": "ヒカリの森の音楽会",
@@ -4046,6 +3675,27 @@
     "program_hint": null
   },
   {
+    "title": "夏の夜に、チャペルで聴く三重奏。",
+    "url": "https://www.concertsquare.jp/blog/2026/202608046164838.html",
+    "date": "2026年08月08日",
+    "day_week": "土",
+    "start_time": "18:00",
+    "venue": "東京都|チャペルカグラ",
+    "official": true,
+    "sub_title": "",
+    "prefecture": "東京都",
+    "public_url": "https://teket.jp/18610/72381",
+    "performers": [],
+    "prices": [
+      {
+        "name": "一般",
+        "price": "3000円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
     "title": "飯田洋輔 Premium Symphonic Concert MAESTOSO",
     "url": "https://www.concertsquare.jp/blog/2026/202512265334564.html",
     "date": "2026年08月08日",
@@ -5119,6 +4769,23 @@
     "prefecture": "埼玉県",
     "hall_url": "https://www.concertsquare.jp/hall/detail/3222",
     "public_url": "https://kazuyukikouno.wixsite.com/bassjunkie/services-1",
+    "performers": [],
+    "prices": [],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "第14回 ゆずりはコンサート",
+    "url": "https://www.concertsquare.jp/blog/2026/202608043847834.html",
+    "date": "2026年08月09日",
+    "day_week": "日",
+    "start_time": "14:00",
+    "venue": "兵庫県|兵庫県立芸術文化センター 神戸女学院小ホール",
+    "official": true,
+    "sub_title": "東日本大震災被災地支援、熊本地震支援",
+    "prefecture": "兵庫県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/168",
+    "public_url": "https://www.yuzuriha-art.or.jp/",
     "performers": [],
     "prices": [],
     "description": null,
@@ -7428,5 +7095,313 @@
     "day_week": "火",
     "start_time": "14:00",
     "venue": "東京都|スクエア荏原 ひらつかホール"
+  },
+  {
+    "title": "仙台国際音楽コンクールボランティアプロジェクトVol.32",
+    "url": "https://www.concertsquare.jp/blog/2026/20260531686216.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "宮城県|日立システムズホール仙台（仙台市青年文化センター）交流ホール",
+    "official": false,
+    "sub_title": "飛躍を続ける若きヴァイオリニスト レイ・ハイルイさんを迎えて",
+    "prefecture": "宮城県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/5144",
+    "public_url": "https://www.sendaiycc.jp/use/17276",
+    "performers": [],
+    "prices": [],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "清水耀平(ヴァイオリン)＆エマニュエル・リモルディ(ピアノ) デュオ・リサイタル Vol.2",
+    "url": "https://www.concertsquare.jp/blog/2026/202606061962292.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "愛知県|宗次ホール",
+    "official": false,
+    "sub_title": "",
+    "prefecture": "愛知県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/18",
+    "public_url": "https://www.meion.ac.jp/concert_info/yohei_rimoldi_duio2/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "プレミアムシート（指定席）",
+        "price": "3500円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "第64回甍演奏会",
+    "url": "https://www.concertsquare.jp/blog/2026/202606289942751.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "東京都|練馬文化センター 大ホール（こぶしホール）",
+    "official": false,
+    "sub_title": "",
+    "prefecture": "東京都",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/936",
+    "public_url": "https://www.neribun.or.jp/nerima_calendar/index.html?y=2026&m=08",
+    "performers": [],
+    "prices": [
+      {
+        "name": "全席自由",
+        "price": "2000円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "Ensemble Vechel 第18回演奏会　アンサンブル・ヴェーチェル",
+    "url": "https://teket.jp/5565/73527",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "東京都|第一生命ホール"
+  },
+  {
+    "title": "横浜都筑区　0歳からの・はじめてのオーケストラ〜動物大行進〜",
+    "url": "https://teket.jp/18118/73646",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "神奈川県|都筑区民文化センター ボッシュホール　1F　リハーサル室"
+  },
+  {
+    "title": "第18回おしゃべりコンサート",
+    "url": "https://teket.jp/18998/73408",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "北海道|えぽあホール"
+  },
+  {
+    "title": "鳥木弥生 メゾソプラノ･リサイタル",
+    "url": "https://www.concertsquare.jp/blog/2026/202607184624665.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "東京都|めぐろパーシモンホール 小ホール",
+    "official": false,
+    "sub_title": "",
+    "prefecture": "東京都",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/713",
+    "public_url": "https://yayoitoriki.com/event/26811/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "全席指定",
+        "price": "4500円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "角野未来 ピアノリサイタル",
+    "url": "https://www.concertsquare.jp/blog/2026/202607275663646.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "長野県|松本市音楽文化ホール(ザ・ハーモニーホール)",
+    "official": false,
+    "sub_title": "",
+    "prefecture": "長野県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/357",
+    "public_url": "https://www.harmonyhall.jp/event/5888/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "全席自由（一般）",
+        "price": "3000円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "アンサンブル天下統一 アンサンブル・アカデミー コンサート2026",
+    "url": "https://www.concertsquare.jp/blog/2026/202607283539133.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:00",
+    "venue": "愛知県|岡崎市シビックセンター コンサートホール コロネット",
+    "official": false,
+    "sub_title": "〈岡崎市シビックセンター リニューアル・プレオープン事業〉",
+    "prefecture": "愛知県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/2348",
+    "public_url": "https://www.civic.okazaki.aichi.jp/events/event/20260811academyconcert/",
+    "performers": [],
+    "prices": [],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "カワイ・ピアノマスタークラス 2026",
+    "url": "https://www.concertsquare.jp/blog/2026/202607159148294.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:30",
+    "venue": "東京都|カワイ表参道コンサートサロン「パウゼ」",
+    "official": false,
+    "sub_title": "～セルゲイ・ドレンスキー教授記念～ 公開レッスン",
+    "prefecture": "東京都",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/662",
+    "public_url": "https://www.kawai.jp/event/detail/3003/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "一般券（当日精算）",
+        "price": "3500円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "大木麻理オルガン・リサイタル",
+    "url": "https://www.concertsquare.jp/blog/2026/202605065839518.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:30",
+    "venue": "東京都|サントリーホール 大ホール",
+    "official": false,
+    "sub_title": "サントリーホール開館40周年記念 オルガン・フェスティバル2026",
+    "prefecture": "東京都",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/676",
+    "public_url": "https://www.suntory.co.jp/suntoryhall/schedule/detail/20260811_M_2.html",
+    "performers": [],
+    "prices": [
+      {
+        "name": "S",
+        "price": "4500円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "ソプラノ栗本萌 3rd Recital ～祈りのうた～",
+    "url": "https://teket.jp/18269/69899",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:30",
+    "venue": "東京都|立川市女性総合センター アイムホール"
+  },
+  {
+    "title": "札幌交響楽団 札響夏休みスペシャル2026～2.5次元のアキラさん！？",
+    "url": "https://www.concertsquare.jp/blog/2026/202605277965374.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:30",
+    "venue": "北海道|札幌コンサートホールKitara 大ホール",
+    "official": false,
+    "sub_title": "～2.5次元のアキラさん！？画面から飛び出した名曲たち！",
+    "prefecture": "北海道",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/105",
+    "public_url": "https://www.sso.or.jp/concerts/2026/08/special/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "おとな(高校生以上)（前売）",
+        "price": "2500円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "禮 den-to #1",
+    "url": "https://www.concertsquare.jp/blog/2026/202606306482060.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:30",
+    "venue": "東京都|日本橋公会堂 ホール(日本橋劇場)",
+    "official": false,
+    "sub_title": "伝統芸能の新たな魅力を届ける公演",
+    "prefecture": "東京都",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/996",
+    "public_url": "https://eplus.jp/sf/detail/4545850001",
+    "performers": [],
+    "prices": [
+      {
+        "name": "１階自由",
+        "price": "6000円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "イタリア愛の歌〜情熱のカンツォーネ",
+    "url": "https://www.concertsquare.jp/blog/2026/202607157868027.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:30",
+    "venue": "長野県|軽井沢大賀ホール",
+    "official": false,
+    "sub_title": "",
+    "prefecture": "長野県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/361",
+    "public_url": "https://www.ohgahall.or.jp/event/11355/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "全席自由（前売）",
+        "price": "4500円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "杉野加奈 ソプラノリサイタル",
+    "url": "https://www.concertsquare.jp/blog/2026/202607196896541.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:30",
+    "venue": "三重県|津リージョンプラザ お城ホール",
+    "official": false,
+    "sub_title": "",
+    "prefecture": "三重県",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/3281",
+    "public_url": "https://www.meion.ac.jp/concert_info/%E6%9D%89%E9%87%8E-%E5%8A%A0%E5%A5%88_%E3%82%BD%E3%83%97%E3%83%A9%E3%83%8E%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%BF%E3%83%AB/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "一般",
+        "price": "2000円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
+  },
+  {
+    "title": "Free! Series ORCHESTRA CONCERT 2026",
+    "url": "https://www.concertsquare.jp/blog/2026/202606278034348.html",
+    "date": "2026年08月11日",
+    "day_week": "火",
+    "start_time": "14:45",
+    "venue": "京都府|ロームシアター京都 メインホール",
+    "official": false,
+    "sub_title": "―Beyond the New Journey―",
+    "prefecture": "京都府",
+    "hall_url": "https://www.concertsquare.jp/hall/detail/2498",
+    "public_url": "https://iwatobi-sc.com/event/orchestra2026/",
+    "performers": [],
+    "prices": [
+      {
+        "name": "“ようこそ！”招待状セット付チケット",
+        "price": "13800円"
+      }
+    ],
+    "description": null,
+    "program_hint": null
   }
 ]
